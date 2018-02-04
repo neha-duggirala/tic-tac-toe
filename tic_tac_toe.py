@@ -24,6 +24,6 @@ while True:
     find=False
     
  else:
-  print "this spot is already taken" 
+  print "this spot is already taken..!" 
  show()
 
